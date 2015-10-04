@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Rassi.SurroundOnType</id>
+    <version>1.0</version>
+    <title>Rassi.SurroundOnType.Title</title>
+    <authors>RSI</authors>
+    <owners>RSI</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ReSharper plugin which surrounds selection</description>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+	<files>
+		<file src="bin\x86\Debug\SurroundOnType.*" target="dotFiles\" />
+	</files>
+</package>
